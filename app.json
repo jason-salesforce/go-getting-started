@@ -10,6 +10,6 @@
   "website": "https://github.com/heroku/go-getting-started",
   "repository": "https://github.com/heroku/go-getting-started",
   "env": {
-    "FAILS": "false"
+    "FAILS": true
   }
 }
